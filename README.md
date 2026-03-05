@@ -3,7 +3,7 @@
 ## Project Overview
 This repository contains a Python-based implementation and extension of the systemic risk and financial contagion model originally proposed by Gai and Kapadia (2010): *"Contagion in financial networks"*. 
 
-While initial exploratory analysis was conducted using NetLogo (based on Blake LeBaron's framework), the simulation engine was fully redeveloped from scratch in Python. This transition was necessary to overcome the limitations of the original NetLogo environment, correct existing architectural flaws, and achieve greater flexibility in modeling complex network topologies.
+While initial exploratory analysis was conducted using NetLogo (based on Blake LeBaron's framework https://people.brandeis.edu/~blebaron/classes/agentfin/GaiKapadia.html), the simulation engine was fully redeveloped from scratch in Python. This transition was necessary to overcome the limitations of the original NetLogo environment, correct existing architectural flaws, and achieve greater flexibility in modeling complex network topologies.
 
 ## Model Features & Implementation
 * **Custom Network Topologies:** The simulation goes beyond standard random graphs, exploring contagion dynamics on **Scale-Free (Power-Law)** networks. 
