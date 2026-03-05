@@ -1,2 +1,16 @@
-# bank_financial_network_contagion_gai_kapadia_2010
-Python simulations of systemic risk and financial contagion in interbank networks based on the Gai-Kapadia model, featuring interactive scripts and Power-Law topologies.
+# 🏦 Financial Contagion in Interbank Networks
+
+## Project Overview
+This repository contains a Python-based implementation and extension of the systemic risk and financial contagion model originally proposed by Gai and Kapadia (2010): *"Contagion in financial networks"*. 
+
+While initial exploratory analysis was conducted using NetLogo (based on Blake LeBaron's framework), the simulation engine was fully redeveloped from scratch in Python. This transition was necessary to overcome the limitations of the original NetLogo environment, correct existing architectural flaws, and achieve greater flexibility in modeling complex network topologies.
+
+## Model Features & Implementation
+* **Custom Network Topologies:** The simulation goes beyond standard random graphs, exploring contagion dynamics on **Scale-Free (Power-Law)** networks. 
+* **Directed Graph Dynamics:** Specific implementations to isolate and test the effects of varying *in-degree* (borrowing) and *out-degree* (lending) distributions on systemic fragility.
+* **Interactive Simulations:** Included interactive Python scripts to visualize and dynamically test the propagation of financial shocks across the interbank market.
+* **Systemic Risk Analysis:** Demonstrates the "robust-yet-fragile" nature of highly interconnected financial systems.
+
+## Tech Stack
+* **Language:** Python
+* **Methodology:** Complex Network Analysis, Systemic Risk Modeling, Graph Theory
