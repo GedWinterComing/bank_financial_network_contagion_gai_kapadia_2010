@@ -7,10 +7,10 @@ While initial exploratory analysis was conducted using NetLogo (based on Blake L
 
 ## Model Features & Implementation
 * **Custom Network Topologies:** The simulation goes beyond standard random graphs, exploring contagion dynamics on **Scale-Free (Power-Law)** networks. 
-* **Directed Graph Dynamics:** Specific implementations to isolate and test the effects of varying *in-degree* (borrowing) and *out-degree* (lending) distributions on systemic fragility.
+* **Directed Graph Dynamics:** Specific implementations to isolate and test the effects of varying *in-degree* (lending/exposure) and *out-degree* (borrowing) distributions on systemic fragility.
 * **Interactive Simulations:** Included interactive Python scripts to visualize and dynamically test the propagation of financial shocks across the interbank market.
 * **Systemic Risk Analysis:** Demonstrates the "robust-yet-fragile" nature of highly interconnected financial systems.
 
 ## Tech Stack
-* **Language:** Python
-* **Methodology:** Complex Network Analysis, Systemic Risk Modeling, Graph Theory
+* **Language:** Python.
+* **Methodology:** Complex Network Analysis, Systemic Risk Modeling, Graph Theory.
