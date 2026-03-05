@@ -12,5 +12,5 @@ While initial exploratory analysis was conducted using NetLogo (based on Blake L
 * **Systemic Risk Analysis:** Demonstrates the "robust-yet-fragile" nature of highly interconnected financial systems.
 
 ## Tech Stack
-* **Language:** Python.
+* **Language:** Python, NetLogo.
 * **Methodology:** Complex Network Analysis, Systemic Risk Modeling, Graph Theory.
