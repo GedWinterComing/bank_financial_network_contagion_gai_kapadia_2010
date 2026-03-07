@@ -11,6 +11,9 @@ While initial exploratory analysis was conducted using NetLogo (based on Blake L
 * **Interactive Simulations:** Included interactive Python scripts to visualize and dynamically test the propagation of financial shocks across the interbank market.
 * **Systemic Risk Analysis:** Demonstrates the "robust-yet-fragile" nature of highly interconnected financial systems.
 
+## Theoretical Framework & Academic Report
+Included in this repository is the original project report (`Relazione_Gai_Kapadia_contagio_banche.pdf`). This document provides a comprehensive theoretical summary of the mathematical tools used to model network contagion, specifically focusing on the analytical application of **Generating Functions** and **Giant Component** theory to assess the systemic vulnerability of financial systems.
+
 ## Tech Stack
 * **Language:** Python, NetLogo.
-* **Methodology:** Complex Network Analysis, Systemic Risk Modeling, Graph Theory.
+* **Methodology:** Complex Network Analysis, Systemic Risk Modeling, Graph Theory, Generating Functions.
